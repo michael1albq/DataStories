@@ -7,6 +7,6 @@
 Data set (songdata.csv) can be found on [kaggle] (https://www.kaggle.com/mousehead/songlyrics)
 
 # Project Team
-* Michael Albuquerque
+* Michael Albuquerque (ma1333@rutgers.edu)
 * Enkai Ji
 * SP Kumar
