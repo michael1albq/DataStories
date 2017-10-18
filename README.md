@@ -2,7 +2,7 @@
 Project code for Data Stories Class
 
 # Functionality
-* RAKE algorithm (implemented by [rake_nltk](https://github.com/csurfer/rake-nltk)) automatically extracts keywords from song lyrics dataset
+* RAKE algorithm (implemented by ) automatically extracts keywords from song lyrics dataset
 * We've found out that pixabay is a much better image dataset than COCO
 * We have an example of the parser and pixabay parser working now
 * Just need to find a way to make it run through the whole set quickly
@@ -12,7 +12,7 @@ Project code for Data Stories Class
 
 # Sources
 Data set (songdata.csv) can be found on [kaggle](https://www.kaggle.com/mousehead/songlyrics)
-
+RAKE: [rake_nltk](https://github.com/csurfer/rake-nltk)
 
 # Project Team
 * Michael Albuquerque (ma1333@rutgers.edu)
