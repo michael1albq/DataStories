@@ -17,4 +17,4 @@ Project code for Data Stories Class
 # Project Team
 * Michael Albuquerque (ma1333@rutgers.edu)
 * Enkai Ji
-* SP Kumar
+* SP Kumar (sp1381@scarletmail.rutgers.edu)
