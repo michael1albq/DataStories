@@ -11,8 +11,8 @@ Project code for Data Stories Class
 
 
 # Sources
-Data set (songdata.csv) can be found on [kaggle](https://www.kaggle.com/mousehead/songlyrics)
-RAKE: [rake_nltk](https://github.com/csurfer/rake-nltk)
+* Data set (songdata.csv) can be found on [kaggle](https://www.kaggle.com/mousehead/songlyrics)
+* RAKE: [rake_nltk](https://github.com/csurfer/rake-nltk)
 
 # Project Team
 * Michael Albuquerque (ma1333@rutgers.edu)
