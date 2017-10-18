@@ -6,7 +6,7 @@ Project code for Data Stories Class
 * We've found out that pixabay is a much better image dataset than COCO
 * We have an example of the parser and pixabay parser working now
 * Just need to find a way to make it run through the whole set quickly
-* Possibly using a Hastable with a linked list implementation with key being s tring containing song name and value being a list of images
+* Possibly using a Hastable with a linked list implementation with key being string containing song name and value being a list of images
 * Need to worry about scalability 
 
 
