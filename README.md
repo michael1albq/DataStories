@@ -21,4 +21,4 @@ Project code for Data Stories Class
 
 # Links
 * [Manual](https://docs.google.com/document/d/10HvHlIFRJy6NmU9uxNbhjY92KNjwS3qWGhpdtbY_GE4/edit?pli=1)
-* [Algorithmic](https://github.com/michael1albq/DataStories)
+* [Algorithmic](https://github.com/michael1albq/DataStories/blob/master/Song_Visualizer.ipynb)
