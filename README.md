@@ -1,6 +1,3 @@
-# DataStories 
-Project code for Data Stories Class
-
 # References
 * Data set (songdata.csv) can be found on [kaggle](https://www.kaggle.com/mousehead/songlyrics)
 * RAKE: [rake_nltk](https://github.com/csurfer/rake-nltk)
