@@ -22,7 +22,7 @@ To run this, you will need to install dependencies, primarily RAKE, download the
 
 # Project Team
 * Michael Albuquerque (ma1333@rutgers.edu)
-* Enkai Ji ()
+* Enkai Ji 
 * SP Kumar (sp1381@scarletmail.rutgers.edu)
 
 
