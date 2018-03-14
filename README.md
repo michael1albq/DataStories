@@ -2,12 +2,15 @@
 # Overview & Requirements
 
 * What is the purpose of this repository?  
+    
 This repository is used to generate an image for each paragraph of a song. 
 
 * How does it work?   
+  
 Given the lyrics as input, the algorithm first determines the keywords using RAKE (Rapid Automated Keyphrase Extraction) and then compares the chosen keywords with the list of image tags of these corresponding keywords using the Pixabay API (which allows for free image querying) and determines the best match using our algorithm (as described in the ppt attached).
 
 * How do I test this out?   
+  
 All the code is in the notebook `Song_Visualizer.ipynb`. Examples are included in this repository. To be able to test out this algorithm, you will need to (1) install dependencies on Python (primarily RAKE), (2) download the pre-trained Google News Word2Vec model(~1.5 GB) and (3) lookup the song number of the chosen song in songdata.csv. 
 
 # Usage
