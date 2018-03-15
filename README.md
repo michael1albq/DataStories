@@ -7,7 +7,7 @@ This repository is used to generate an image for each paragraph of a song.
 
 * How does it work?   
   
-Given the lyrics as input, the algorithm first determines the keywords using RAKE (Rapid Automated Keyphrase Extraction) and then compares the chosen keywords with the list of image tags of these corresponding keywords using the Pixabay API (which allows for free image querying) and determines the best match using our algorithm (as described in the ppt attached).
+Given the lyrics as input, the algorithm first determines the keywords using [RAKE](https://github.com/csurfer/rake-nltk) (Rapid Automated Keyphrase Extraction) and then compares the chosen keywords with the list of image tags of these corresponding keywords using a [Pixabay API](https://pixabay.com/api/docs/) (which allows for free image querying) and determines the best match using our algorithm (as described in the [ppt](https://github.com/michael1albq/DataStories/blob/master/Presentation_DataStories_Lyrics2PhotoStream.pptx) attached).
 
 * How do I test this out?   
   
@@ -45,4 +45,4 @@ This project was carried out for a class on Data Stories at Rutgers U. by:
 # References
 
 * [Song Dataset](https://www.kaggle.com/mousehead/songlyrics)
-* [Key-Word Extraction Algorithm](https://github.com/csurfer/rake-nltk)
+* [RAKE (Key-Word Extraction Algorithm)](https://github.com/csurfer/rake-nltk)
