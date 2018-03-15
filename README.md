@@ -11,7 +11,10 @@ Given the lyrics as input, the algorithm first determines the keywords using [RA
 
 * How do I test this out?   
   
-All the code is in the notebook `Song_Visualizer.ipynb`. Examples are included in this repository. To be able to test out this algorithm, you will need to (1) install dependencies on Python (primarily RAKE), (2) download the pre-trained Google News Word2Vec model(~1.5 GB) and (3) lookup the song number of the chosen song in songdata.csv. 
+All the code is in the notebook `Song_Visualizer.ipynb`. Examples are included in this repository. To be able to test out this algorithm, you will need to:  
+(1) install dependencies on Python (primarily RAKE)  
+(2) download the pre-trained Google News Word2Vec model(~1.5 GB)  
+(3) lookup the song number of the chosen song in songdata.csv   
 
 # Usage
 
@@ -35,7 +38,7 @@ The Lyrics Video shows the algorithm in action for the song 'Country Roads' incl
 The algorithm used to generate the code.
 
 # Project Team
-This project was carried out for a class on Data Stories at Rutgers U. by:
+This project was carried out for a class 'Data Stories: Using Artificial Intelligence with Multimodal Data' at Rutgers U. by:
 
 * Michael Albuquerque (ma1333@rutgers.edu)
 * Enkai Ji 
